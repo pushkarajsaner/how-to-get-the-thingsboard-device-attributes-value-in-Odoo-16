@@ -1,0 +1,1 @@
+# how-to-get-the-thingsboard-device-attributes-value-in-Odoo-16
